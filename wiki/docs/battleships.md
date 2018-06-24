@@ -3,8 +3,6 @@
 ## Battleships
 Rule of Thumb: 100k EHP,  70% Shield Resistances.
 
-Suitcase: Mobile Depot, Warpcore Stabs, Inertial Stabs, Refit
-
 Travel only with a Scout!
 A problem with using BS is that the Refit from Vanguards to Assault can be quite huge. But the buffed cargohold of BS makes it possible to take it with you.
 
